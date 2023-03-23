@@ -1,6 +1,7 @@
 ## Hambacher-S23B Pull Request
 
 - [ ] - I have tested and verified my changes locally
+- [ ] - This change completes the User Story
 - [ ] - My changes have been QA reviewed by another team member
 <br><br><br>
 
